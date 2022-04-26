@@ -1,7 +1,6 @@
 {
     const kiseki = document.getElementById("kiseki");
     const button = document.getElementById("button");
-    const rebutton = document.getElementById("rebutton");
     const kt = ["奇","跡","体","験"];
     const anbiri = ["ア","ン","ビ","リ","バ","ボ"];
     const rk =[];
